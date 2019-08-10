@@ -24,5 +24,6 @@ result = 4
 end
 
 def square_root(num)
-
+81^^
+result = 
 end
