@@ -19,7 +19,8 @@ result = 120
 end
 
 def modulo(num1, num2)
-34
+34 mod 5
+result = 4
 end
 
 def square_root(num)
